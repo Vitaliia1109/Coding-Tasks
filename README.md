@@ -109,13 +109,13 @@ axios.get(url, options)
 ---
 
 ## Examples
-![Profile Image](https://github.com/Vitaliia1109/Vitaliia1109/blob/main/IMG_20230930_1134532%20(1)%20(1)%20(1).png)
-Home Page
-[Home Page](https://github.com/Vitaliia1109/codingTasks/homePage.png)
 
-Movies Search Page
+- Home Page
+![Home Page](homePage.png)
 
-Movie Details Page
+- Movies Search Page
+
+- Movie Details Page
 
 ---
 
