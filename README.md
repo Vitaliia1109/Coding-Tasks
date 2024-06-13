@@ -87,14 +87,13 @@ The application supports the following routes:
 
 ---
 
-Integration with TMDB API
+## Integration with TMDB API
 To work with the TMDB API, you need to register on the TMDB website and get an API key. For each API request, you need to add an Authorization header with your API key.
 
 Example API Usage
 Example request to the API to get a list of popular movies:
 
-javascript
-Копировать код
+```javascript
 const url = 'https://api.themoviedb.org/3/trending/movie/week';
 const apiKey = 'your_api_key';
 const options = {
@@ -106,15 +105,20 @@ const options = {
 axios.get(url, options)
   .then(response => console.log(response.data))
   .catch(error => console.error(error));
-Examples
+```
+---
+
+## Examples
 Home Page
 
 Movies Search Page
 
 Movie Details Page
 
-Author
-Your Name - Developer who created this project. You can find more of my work on GitHub.
+---
+
+## Author
+Vitaliia Ieromina - Developer who created this project. You can find more of my work on [GitHub](https://github.com/Vitaliia1109).
 
 
 
