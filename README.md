@@ -114,8 +114,10 @@ axios.get(url, options)
 ![Home Page](homePage.png)
 
 - Movies Search Page
+![Home Page](movieSearchPage.png)
 
 - Movie Details Page
+![Home Page](movieDetailsPage.png)
 
 ---
 
