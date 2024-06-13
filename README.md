@@ -111,7 +111,7 @@ axios.get(url, options)
 ## Examples
 ![Profile Image](https://github.com/Vitaliia1109/Vitaliia1109/blob/main/IMG_20230930_1134532%20(1)%20(1)%20(1).png)
 Home Page
-![Home Page](https://github.com/Vitaliia1109/codingTasks/Снимок экрана 2024-06-13 175730.png)
+[Home Page](https://github.com/Vitaliia1109/codingTasks/homePage.png)
 
 Movies Search Page
 
